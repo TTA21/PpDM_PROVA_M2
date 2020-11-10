@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProvaM2</string>
+    <string name="registry">register_class</string>
+    <string name="seeteams">See_Teams</string>
+</resources>
